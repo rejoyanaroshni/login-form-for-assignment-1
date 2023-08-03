@@ -1,0 +1,21 @@
+.middle{
+    background-color: antiquewhite;
+    padding: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.middle p{
+    margin-bottom: 2px;
+    margin-top: 5px;
+    text-align: start;
+}
+
+button{
+    background-color: rgb(24, 24, 24);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
